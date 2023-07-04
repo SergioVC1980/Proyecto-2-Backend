@@ -1,7 +1,7 @@
 {
   "name": "proyecto-2",
   "version": "1.0.0",
-  "description": "",
+  "description": "TÍTULO\r App para compartir enlaces.\r DESCRIPCIÓN\r Implementar una API que permita a los usuarios registrarse y compartir enlaces web que\r consideren interesantes. Otros usuarios podrán votarlos si les gustan.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -24,5 +24,13 @@
   "devDependencies": {
     "eslint": "^8.40.0",
     "prettier": "^2.8.8"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioVC1980/Proyecto-2-Backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SergioVC1980/Proyecto-2-Backend/issues"
+  },
+  "homepage": "https://github.com/SergioVC1980/Proyecto-2-Backend#readme"
 }
